@@ -1,0 +1,20 @@
+ID: 1000
+Description: Submit button is blocked in login form
+
+Precondition: Go to https://example.com
+
+Steps to reproduce:
+1.Click on button "Login"
+2. Click on button Submit
+
+Actual result: button is in blocked state (disabled state in Devtools)
+
+Expected result: button is clickable, state is active
+
+Environment: Windows 10, Chrome 100.1.1.1234
+
+Severity: Critical
+
+Priority: High
+
+Assigned to: Developer
