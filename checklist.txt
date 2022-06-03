@@ -1,0 +1,7 @@
+Login form 
+
+1. Check link from the main page
+2. Check if user can login with valid data
+3. Check if user can't login with invalid data
+4. Check if data is inserted to database
+
